@@ -1099,4 +1099,5 @@ textarea {
 
 .nav-item:hover {
 	background-color: rgb(204, 184, 0);
+	transform: skew(20deg);
 }
