@@ -1093,6 +1093,7 @@ textarea {
 .nav-item {
 	padding: 10px;
 	z-index: 0;
+	color: white !important;
 }
   
 .nav-item:hover::before {
@@ -1102,7 +1103,7 @@ textarea {
 	bottom: 0;
 	left: -10px;
 	right: -10px;
-	background-color: rgb(238, 214, 3);
+	background-color: #BD7EB7;
 	transform: skew(-15deg);
 	z-index: -1;
 }
@@ -1122,7 +1123,7 @@ textarea {
 }
 
 .green-box {
-	background-color: rgb(227, 231, 1);
+	background-color: #BD7EB7;
     padding: 5px;
     border-radius: 3px;
     padding-top: 50px;
