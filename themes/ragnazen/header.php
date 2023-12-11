@@ -26,6 +26,7 @@
 
     <!-- Fixed navbar -->
 	<?php include $this->themePath('main/navbar.php', true) ?>
+	<?php include $this->themePath('main/header.php', true) ?>
 
     <div class="container information">
 		<?php //include 'main/sidebar.php' ?>
