@@ -1116,7 +1116,9 @@ textarea {
 
 .green-box {
 	background-color: #0c0;
-	padding: 5px;
+    padding: 5px;
+    border-radius: 3px;
+    padding-top: 50px;
 }
 
 .online-bar {
