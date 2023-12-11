@@ -1,8 +1,8 @@
 <?php if (!defined('FLUX_ROOT')) exit; ?>
 
+<div class="online-bar"><p>Usuários: <span class="green">522</span> Server <span><i class="fa-solid fa-toggle-on"></i></span></p></div>
 <div class="navbar navbar-dark bg-dark navbar-expand-lg fixed-top" role="navigation">
 	<div class="container">
-		<div class="online-bar"><p>Usuários: <span class="green">522</span> Server <span><i class="fa-solid fa-toggle-on"></i></span></p></div>
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
 				<span class="visually-hidden">Toggle navigation</span>
