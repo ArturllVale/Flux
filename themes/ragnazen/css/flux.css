@@ -1122,3 +1122,7 @@ textarea {
 	background-color: #212529;
     color: white;
 }
+
+.d-flex {
+	width: auto !important;
+}
