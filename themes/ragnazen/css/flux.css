@@ -1100,7 +1100,7 @@ textarea {
 }
 
 .nav-item li a {
-	color: black !important;
+	color: rgb(43, 43, 43) !important;
 }
 
 .nav-item:hover::before {
