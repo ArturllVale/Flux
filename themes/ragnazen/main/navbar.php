@@ -4,12 +4,10 @@
 	<div class="container">
 		<div class="row online-row">
 			<ul>
-				<li>
-				<p>Usuários: <span class="green">522</span></p>
-				</li>
-				<li>
-				<p>Server: <span><i class="fa-solid fa-toggle-on"></i></span></p>
-				</li>
+			<p>Usuários: <span class="green">522</span></p>
+			</ul>
+			<ul>
+			<p>Server: <span><i class="fa-solid fa-toggle-on"></i></span></p>
 			</ul>
 		</div>
 	</div>
