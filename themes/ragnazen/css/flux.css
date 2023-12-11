@@ -1097,7 +1097,20 @@ textarea {
     padding-bottom: 8px;
 }
 
-.nav-item:hover {
-	background-color: rgb(204, 184, 0);
-	transform: skew(20deg);
+.nav-item {
+	position: relative;
+	overflow: hidden;
 }
+  
+.nav-item:hover::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: -10px;
+	right: -10px;
+	background-color: rgb(204, 184, 0);
+	transform: skew(-15deg);
+	z-index: -1;
+}
+  
