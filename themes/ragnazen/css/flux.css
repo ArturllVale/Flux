@@ -1123,5 +1123,5 @@ textarea {
 }
 
 .d-flex {
-	width: auto;
+	width: auto !important;
 }
