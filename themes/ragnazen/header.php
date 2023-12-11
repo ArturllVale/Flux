@@ -29,6 +29,7 @@
 	<?php include $this->themePath('main/header.php', true) ?>
 	<div class="wave-container"></div>
 	<div class="wave-container2"></div>
+	<div class="wave-container3"></div>
     <div class="container information">
 		<?php //include 'main/sidebar.php' ?>
 		<?php include 'main/loginbox.php' ?>
