@@ -1116,3 +1116,8 @@ textarea {
 	background-color: #0c0;
 	padding: 5px;
 }
+
+.online-bar {
+	background-color: #212529;
+    color: white;
+}
