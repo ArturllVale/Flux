@@ -11,7 +11,7 @@
 	</div>
 </div> -->
 
-<div class="navbar navbar-dark navbar-expand-lg" role="navigation">
+<div class="navbar navbar-expand-lg" role="navigation">
 	<div class="container">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
