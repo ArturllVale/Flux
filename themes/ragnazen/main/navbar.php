@@ -1,6 +1,6 @@
 <?php if (!defined('FLUX_ROOT')) exit; ?>
 
-<div class="online-bar">
+<!--<div class="online-bar">
 	<div class="container">
 		<div class="row online-row d-flex justify-content-end">
 			<ul class="list-unstyled d-flex">
@@ -9,7 +9,7 @@
 			</ul>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <div class="navbar navbar-dark bg-dark navbar-expand-lg" role="navigation">
 	<div class="container">
