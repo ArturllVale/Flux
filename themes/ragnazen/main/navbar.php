@@ -2,16 +2,15 @@
 
 <div class="online-bar">
 	<div class="container">
-		<div class="row online-row">
-			<ul>
-			<p>Usuários: <span class="green">522</span></p>
-			</ul>
-			<ul>
-			<p>Server: <span><i class="fa-solid fa-toggle-on"></i></span></p>
+		<div class="row online-row d-flex justify-content-end">
+			<ul class="list-unstyled d-flex">
+				<li class="me-3">Usuários: <span class="green">522</span></li>
+				<li>Server: <span><i class="fa-solid fa-toggle-on"></i></span></li>
 			</ul>
 		</div>
 	</div>
 </div>
+
 <div class="navbar navbar-dark bg-dark navbar-expand-lg" role="navigation">
 	<div class="container">
 		<div class="navbar-header">

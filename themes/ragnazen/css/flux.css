@@ -1107,4 +1107,8 @@ textarea {
 	transform: skew(-15deg);
 	z-index: -1;
 }
+
+.online-row {
+	align-items: center;
+}
   
