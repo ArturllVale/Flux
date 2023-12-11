@@ -1152,6 +1152,10 @@ textarea {
 	padding-bottom: 3em;
 }
 
+.header-img {
+	max-width: 250px;
+}
+
 .information {
 	background-color: #fff;
     margin-top: 1em;
