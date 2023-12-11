@@ -11,7 +11,6 @@
 				<p>Server: <span><i class="fa-solid fa-toggle-on"></i></span></p>
 				</li>
 			</ul>
-			<p>Usuários: <span class="green">522</span> Server <span><i class="fa-solid fa-toggle-on"></i></span></p>
 		</div>
 	</div>
 </div>
