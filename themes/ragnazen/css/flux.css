@@ -1153,7 +1153,8 @@ textarea {
 }
 
 .header-img {
-	max-width: 250px;
+	max-width: 400px;
+    margin-top: -11em;
 }
 
 .information {
