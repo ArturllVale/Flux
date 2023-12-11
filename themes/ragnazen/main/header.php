@@ -8,8 +8,8 @@
             <p class="text-header">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur malesuada tortor imperdiet tellus porttitor placerat. Morbi tincidunt augue et interdum lobortis.</p>
             <button type="button" class="btn btn-primary"><i class="fas fa-user-circle"></i>Criar Conta</button>
         </div>
-        <div class="col-md-6 header-img">
-        <img src="<?php echo $this->themePath('img/img02.png'); ?>" alt="Image Header ragnarok" />
+        <div class="col-md-6">
+        <img class="header-img" src="<?php echo $this->themePath('img/img02.png'); ?>" alt="Image Header ragnarok" />
         </div>
     </div>
     </div>
