@@ -3,7 +3,7 @@
 <div class="online-bar">
 	<div class="container">
 		<div class="row online-row d-flex justify-content-end">
-			<ul class="d-flex">
+			<ul class="list-unstyled d-flex">
 				<li class="me-3">Usuários: <span class="green-box">522</span></li>
 				<li>Server: <i class="fa-regular fa-toggle-on"></i></li>
 			</ul>
