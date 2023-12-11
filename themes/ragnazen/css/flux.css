@@ -1176,5 +1176,9 @@ textarea {
 }
 
 .btn-primary {
-	
+	border-radius: 30px !important;
+    padding: 10px !important;
+    font-weight: 500 !important;
+    background-color: #BD7EB7 !important;
+    border-color: #BD7EB7 !important;
 }
