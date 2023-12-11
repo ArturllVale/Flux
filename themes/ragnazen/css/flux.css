@@ -1093,12 +1093,7 @@ textarea {
 }
 
 .nav-item {
-	padding-top: 8px;
-    padding-bottom: 8px;
-}
-
-.nav-item {
-	
+	padding: 10px;
 }
   
 .nav-item:hover::before {
