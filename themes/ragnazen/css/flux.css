@@ -1088,6 +1088,15 @@ textarea {
 	font-style: italic;
 }
 
+.navbar {
+	--bs-navbar-padding-y: 0px !important;
+}
+
+.nav-item {
+	padding-top: 8px;
+    padding-bottom: 8px;
+}
+
 .nav-item:hover {
 	background-color: rgb(204, 184, 0);
 }
