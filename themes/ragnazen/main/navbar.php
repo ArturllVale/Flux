@@ -10,7 +10,7 @@
 			<a class="navbar-brand" href="./"><?php echo Flux::config('SiteTitle'); ?></a>
 		</div>
 		<div class="collapse navbar-collapse">
-			<ul class="navbar-nav">
+			<ul class="navbar-nav ms-auto">
 				<?php $menuItems = $this->getMenuItems(); ?>
 				<?php if (!empty($menuItems)): ?>
 					<?php foreach ($menuItems as $menuCategory => $menus): ?>
