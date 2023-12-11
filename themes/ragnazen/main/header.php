@@ -4,7 +4,7 @@
     <div class="container">
     <div class="row">
         <div class="col-md-6">
-            <h2>Venha se Divertir!</h2>
+            <h2 class="nunito">Venha se Divertir!</h2>
             <p>Esteja entre os melhores e obtenha o poder definitivo</p>
         </div>
         <div class="col-md-6">
