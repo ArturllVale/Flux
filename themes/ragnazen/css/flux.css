@@ -1114,8 +1114,15 @@ textarea {
 	align-items: center;
 }
 
-.green-box {
+.green-on {
 	background-color: #0c0;
+    padding: 5px;
+    border-radius: 3px;
+    padding-top: 50px;
+}
+
+.green-box {
+	background-color: rgb(227, 231, 1);
     padding: 5px;
     border-radius: 3px;
     padding-top: 50px;
