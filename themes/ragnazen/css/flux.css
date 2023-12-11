@@ -1157,6 +1157,9 @@ textarea {
 
 .nunito {
 	font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    font-size: 2.4em;
+    color: white;
 }
 
 .header-line {
@@ -1164,5 +1167,10 @@ textarea {
 }
 
 .header-text {
-	padding-left: 7em;
+	padding-left: 7em !important;
+}
+
+.text-header {
+	font-weight: 500;
+    color: white;
 }
