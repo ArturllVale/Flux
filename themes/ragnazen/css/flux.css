@@ -1148,3 +1148,7 @@ textarea {
     margin-bottom: 5em;
     padding-bottom: 1em !important;
 }
+
+.opaca {
+	background-color: #47C9FD;
+}
