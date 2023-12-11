@@ -2,13 +2,8 @@
 
 <div class="online-bar">
 	<div class="container">
-		<div class="row">
-			<div class="col">
-			<p>Usuários: <span class="green">522</span></p>
-			</div>
-			<div class="col">
-			<p>Server <span><i class="fa-solid fa-toggle-on"></i></span></p>
-			</div>
+		<div class="row online-row">
+			<p>Usuários: <span class="green">522</span> Server <span><i class="fa-solid fa-toggle-on"></i></span></p>
 		</div>
 	</div>
 </div>
