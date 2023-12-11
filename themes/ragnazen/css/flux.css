@@ -1099,6 +1099,10 @@ textarea {
 	color: white !important;
 }
 
+.nav-item li a {
+	color: black !important;
+}
+
 .nav-item:hover::before {
 	content: "";
 	position: absolute;
