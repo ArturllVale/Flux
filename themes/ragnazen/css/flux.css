@@ -1159,6 +1159,8 @@ textarea {
 .header-img {
 	max-width: 400px;
     margin-top: -11em;
+	position: relative;
+    z-index: 2;
 }
 
 .information {
@@ -1202,6 +1204,7 @@ textarea {
 .wave-container {
 	background-color: #47c9fd;
 	position: relative;
+	z-index: 2;
   }
   
   .wave-container::before {   
