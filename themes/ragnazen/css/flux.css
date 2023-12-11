@@ -1140,3 +1140,7 @@ textarea {
 .d-flex {
 	width: auto !important;
 }
+
+.information {
+	background-color: #fff;
+}

@@ -27,7 +27,7 @@
     <!-- Fixed navbar -->
 	<?php include $this->themePath('main/navbar.php', true) ?>
 
-    <div class="container">
+    <div class="container information">
 		<?php //include 'main/sidebar.php' ?>
 		<?php include 'main/loginbox.php' ?>
 		<?php if (Flux::config('DebugMode') && @gethostbyname(Flux::config('ServerAddress')) == '127.0.0.1'): ?>
