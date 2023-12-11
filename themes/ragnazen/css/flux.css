@@ -1149,7 +1149,6 @@ textarea {
 
 .header-main {
 	background-color: #47C9FD;
-	padding-bottom: 3em;
 }
 
 .header-img {
@@ -1197,8 +1196,7 @@ textarea {
     border-color: #BD7EB7 !important;
 }
 
-.wave-container {  
-	height: 20vh;
+.wave-container {
 	background-color: #47c9fd;
 	position: relative;
   }
