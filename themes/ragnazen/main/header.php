@@ -9,7 +9,7 @@
             <button type="button" class="btn btn-primary"><i class="fas fa-user-circle"></i>Criar Conta</button>
         </div>
         <div class="col-md-6 header-img">
-            <img src="img/img02.png" alt="Image Header ragnarok">
+        <img src="img/img02.png" alt="Image Header ragnarok" />
         </div>
     </div>
     </div>
