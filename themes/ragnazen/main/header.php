@@ -1,6 +1,6 @@
 <?php if (!defined('FLUX_ROOT')) exit; ?>
 
-<div class="container-fluid header-main">
+<div class="container-fluid header-main" id="particles-js">
     <div class="container">
     <div class="row header-line">
         <div class="col-md-6 header-text">
