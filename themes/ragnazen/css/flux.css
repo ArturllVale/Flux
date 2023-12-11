@@ -1111,4 +1111,8 @@ textarea {
 .online-row {
 	align-items: center;
 }
-  
+
+.green-box {
+	background-color: #0c0;
+	padding: 5px;
+}
