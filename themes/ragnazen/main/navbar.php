@@ -5,7 +5,7 @@
 		<div class="row online-row d-flex justify-content-end">
 			<ul class="list-unstyled d-flex">
 				<li class="me-3">Usuários: <span class="green-box">522</span></li>
-				<li>Server: <span class="green-on"></span></li>
+				<li>Server: <span class="green-on">ON</span></li>
 			</ul>
 		</div>
 	</div>
