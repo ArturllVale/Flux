@@ -3,6 +3,14 @@
 <div class="online-bar">
 	<div class="container">
 		<div class="row online-row">
+			<ul>
+				<li>
+				<p>Usuários: <span class="green">522</span></p>
+				</li>
+				<li>
+				<p>Server: <span><i class="fa-solid fa-toggle-on"></i></span></p>
+				</li>
+			</ul>
 			<p>Usuários: <span class="green">522</span> Server <span><i class="fa-solid fa-toggle-on"></i></span></p>
 		</div>
 	</div>
