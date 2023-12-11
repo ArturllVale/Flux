@@ -1,6 +1,12 @@
 <?php if (!defined('FLUX_ROOT')) exit; ?>
 
-<div class="online-bar"><p>Usuários: <span class="green">522</span> Server <span><i class="fa-solid fa-toggle-on"></i></span></p></div>
+<div class="online-bar">
+	<div class="container">
+		<div class="row">
+			<p>Usuários: <span class="green">522</span> Server <span><i class="fa-solid fa-toggle-on"></i></span></p>
+		</div>
+	</div>
+</div>
 <div class="navbar navbar-dark bg-dark navbar-expand-lg fixed-top" role="navigation">
 	<div class="container">
 		<div class="navbar-header">
