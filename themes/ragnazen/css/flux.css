@@ -1094,7 +1094,7 @@ textarea {
 
 .nav-item {
 	padding: 10px;
-	color: white;
+	z-index: 0;
 }
   
 .nav-item:hover::before {
@@ -1104,10 +1104,11 @@ textarea {
 	bottom: 0;
 	left: -10px;
 	right: -10px;
-	background-color: rgb(238, 214, 3) !important;
+	background-color: rgb(238, 214, 3);
 	transform: skew(-15deg);
-	z-index: -1 !important;
+	z-index: -1;
 }
+
 
 .online-row {
 	align-items: center;
