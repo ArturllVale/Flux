@@ -1415,9 +1415,10 @@ textarea {
 .btn-secondary p {
 	text-align: left;
 }
+
 .btn-secondary i {
 	font-size: 37px;
-	text-align: right;
+	float: right;
 }
 
 .btn-secondary p:nth-child(3) {
