@@ -1358,3 +1358,7 @@ textarea {
     height: 120px;
     border-radius: 10px;
 }
+
+.online p{
+	padding-bottom: 0px;
+}

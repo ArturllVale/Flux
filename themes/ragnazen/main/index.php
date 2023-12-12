@@ -15,7 +15,7 @@
         </div>
 	</div>
 	<div class="col">
-        <div class="bloco-index">
+        <div class="bloco-index online">
 		    <p>Online</p>
 		    <p>352</p>
 		    <p>Players</p>
