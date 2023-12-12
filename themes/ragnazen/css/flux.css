@@ -1476,31 +1476,31 @@ h3 {
     background: var(--bg1);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100%;
+    background-size: auto;
 }
 .box-container .box:nth-child(2) {
     background: var(--bg2);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100%;
+    background-size: auto;
 }
 .box-container .box:nth-child(3) {
     background: var(--bg3);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100%;
+    background-size: auto;
 }
 .box-container .box:nth-child(4) {
     background: var(--bg4);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100%;
+    background-size: auto;
 }
 .box-container .box:nth-child(5) {
     background: var(--bg5);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100%;
+    background-size: auto;
 }
 .box-container .box .overlay {
     opacity: 0;
