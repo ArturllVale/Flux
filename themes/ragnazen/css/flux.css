@@ -1370,4 +1370,5 @@ textarea {
 .block-top {
     margin-top: -7em !important;
 	text-align: -webkit-center;
+	--bs-gutter-x: -20rem !important;
 }
