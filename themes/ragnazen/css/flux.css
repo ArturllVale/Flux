@@ -1545,8 +1545,8 @@ h3 {
 }
 
 .instanciado {
-	background-color: #bd7eb7 !important;
-    border-color: #bd7eb7 !important;
+	background-color: #47C9FD !important;
+    border-color: #47C9FD !important;
     border-radius: 10px !important;
     padding: 10px !important;
     margin-bottom: 10px !important;
@@ -1554,4 +1554,9 @@ h3 {
     color: white !important;
     font-family: 'Nunito' !important;
     font-weight: 600 !important;
+}
+
+.instanciado:hover {
+	background-color: #bd7eb7 !important;
+    border-color: #bd7eb7 !important;
 }
