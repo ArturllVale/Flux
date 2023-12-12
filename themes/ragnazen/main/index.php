@@ -142,17 +142,17 @@
 			</div>
 			<!-- Mostruario -->
 			<div class="col-md-8">
-				<div class="grid">
+				<div class="row">
 				
 				
-					<div class="g-col-6 g-col-md-4 collapse" id="instance01">
+					<div class="col-md-6 collapse" id="instance01">
 					<div class="box-instance">
 						<h3>Instancia</h3>
 						<p>Descrição aquo</p>
 					</div>
 					</div>
 
-					<div class="g-col-6 g-col-md-4 collapse" id="instance01">
+					<div class="col-md-6 g-col-md-4 collapse" id="instance01">
 					<div class="box-instance">
 						<h3>Instancia</h3>
 						<p>Descrição aquo</p>
