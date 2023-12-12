@@ -1579,6 +1579,24 @@ h3 {
 	margin-left: -10px;
 }
 
+.instanciado a::before {
+	position: absolute;
+    right: -8px;
+    top: 27px;
+    width: 16px;
+    height: 16px;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    background: #bd7eb6;
+    content: '';
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+    opacity: 0;
+}
+
 .small, small {
     display: block;
     padding-left: 67px !important;
