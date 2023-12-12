@@ -1560,3 +1560,14 @@ h3 {
 	background-color: #bd7eb7 !important;
     border-color: #bd7eb7 !important;
 }
+
+.instanciado:active {
+	background-color: #bd7eb7 !important;
+    border-color: #bd7eb7 !important;
+}
+
+.instanciado:focus {
+	background-color: #bd7eb7 !important;
+    border-color: #bd7eb7 !important;
+}
+
