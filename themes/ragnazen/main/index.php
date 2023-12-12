@@ -114,7 +114,7 @@
 			<div class="col-md-3">
 				<ul class="list-group">
 					<li class="list-group-item instanciado">
-						<img class="md-img" src="<?php echo $this->themePath('img/land.png'); ?>" alt="" />
+						<img class="in-img" src="<?php echo $this->themePath('img/land.png'); ?>" alt="" />
 						<a class="btn" data-bs-toggle="collapse" data-bs-target="#instance01" aria-expanded="false" aria-controls="instance01">Nome da Instância</a>
 						<small>Instância</small>
 					</li>
