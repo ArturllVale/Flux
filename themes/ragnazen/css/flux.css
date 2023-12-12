@@ -1402,3 +1402,7 @@ textarea {
 .espaco {
 	margin-top: 5em !important;
 }
+
+.md-img{
+	max-width: 250px;
+}
