@@ -1,16 +1,5 @@
 <?php if (!defined('FLUX_ROOT')) exit; ?>
 
-<!--<div class="online-bar">
-	<div class="container">
-		<div class="row online-row d-flex justify-content-end">
-			<ul class="list-unstyled d-flex">
-				<li class="me-3">Usuários: <span class="green-box">522</span></li>
-				<li>Server: <span class="green-on">ON</span></li>
-			</ul>
-		</div>
-	</div>
-</div> -->
-
 <div class="navbar opaca navbar-expand-lg" role="navigation">
 	<div class="container">
 		<div class="navbar-header">

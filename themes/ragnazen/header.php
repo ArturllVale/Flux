@@ -26,14 +26,14 @@
 
     <!-- Fixed navbar -->
 	<?php include $this->themePath('main/navbar.php', true) ?>
-	<?php include $this->themePath('main/header.php', true) ?>
+	<?php include $this->themePath('main/header.php', false) ?>
 	<div class="wave-container"></div>
 	<div class="wave-container2"></div>
 	<div class="wave-container3"></div>
 	<div class="wave-container4"></div>
     <div class="container information">
 		<?php //include 'main/sidebar.php' ?>
-		<?php include 'main/loginbox.php' ?>
+		<?php //include 'main/loginbox.php' ?>
 		<?php if (Flux::config('DebugMode') && @gethostbyname(Flux::config('ServerAddress')) == '127.0.0.1'): ?>
 			<p class="notice">Please change your <strong>ServerAddress</strong> directive in your application config to your server's real address (e.g., myserver.com).</p>
 		<?php endif ?>
