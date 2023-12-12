@@ -147,8 +147,10 @@
 				
 					<div class="col-md-4 collapse" id="instance01">
 					<div class="box-instance">
-						<h3>Instancia</h3>
 						<p>Descrição aquo</p>
+						<small>Pequena Desc</small>
+						<hr>
+						<p>Descrição aquodes maior aqui tatatat lslslsl</p>
 					</div>
 					</div>
 
