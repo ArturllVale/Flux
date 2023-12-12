@@ -1417,7 +1417,10 @@ textarea {
 
 .btn-secondary p {
 	text-align: left;
-	padding-top: 10px;
+    padding-top: 10px;
+    font-weight: 600;
+    font-family: 'Nunito';
+    text-transform: uppercase;
 }
 
 .btn-secondary i {
@@ -1427,7 +1430,8 @@ textarea {
 }
 
 .btn-secondary p:nth-of-type(2) {
-	font-size: 12px;
+	font-size: 11px;
     text-align: left;
     margin-top: -50px;
+    font-weight: 500;
 }
