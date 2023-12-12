@@ -1534,3 +1534,7 @@ h3 {
     font-weight: 500 !important;
     font-family: 'Nunito' !important;
 }
+
+.dropdown-menu.show {
+    margin-left: -20px !important;
+}
