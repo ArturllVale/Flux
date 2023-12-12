@@ -1611,3 +1611,7 @@ h3 {
 	margin-bottom: 8px;
     border-radius: 5px;
 }
+
+.card {
+	max-width: 255px;
+}
