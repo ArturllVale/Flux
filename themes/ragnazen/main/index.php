@@ -2,28 +2,39 @@
 	exit; ?>
 
 <div class="row center">
-	<div class="col bloco-index">
-		<i class="fas fa-shield-virus"></i>
-		<p>Gepard Shield</p>
+	<div class="col">
+        <div class="bloco-index">
+		    <i class="fas fa-shield-virus"></i>
+		    <p>Gepard Shield</p>
+        </div>
 	</div>
-	<div class="col bloco-index">
-		<i class="fas fa-khanda"></i>
-		<p>Hard Mod</p>
+	<div class="col">
+        <div class="bloco-index">
+		    <i class="fas fa-khanda"></i>
+		    <p>Hard Mod</p>
+        </div>
 	</div>
-	<div class="col bloco-index">
-		<p>Online</p>
-		<p>352</p>
-		<p>Players</p>
+	<div class="col">
+        <div class="bloco-index">
+		    <p>Online</p>
+		    <p>352</p>
+		    <p>Players</p>
+        </div>
 	</div>
-	<div class="col bloco-index">
-		<i class="fas fa-comments-dollar"></i>
-		<p>RMT System</p>
+	<div class="col">
+        <div class="bloco-index">
+		    <i class="fas fa-comments-dollar"></i>
+		    <p>RMT System</p>
+        </div>
 	</div>
-	<div class="col bloco-index">
-		<i class="fas fa-gamepad"></i>
-		<p>For Fun</p>
+	<div class="col">
+        <div class="bloco-index">
+		    <i class="fas fa-gamepad"></i>
+		    <p>For Fun</p>
+        </div>
 	</div>
 </div>
+
 <!--
 /*<?php if (Flux::config('CMSNewsOnHomepage')): ?>
 /*	<h2><?php echo htmlspecialchars(sprintf(Flux::message('MainPageWelcome'), Flux::config('SiteTitle'))) ?></h2>
