@@ -144,7 +144,7 @@
 			<div class="col-md-8">
 				<div class="collapse" id="instance01">
 					<div class="col">
-					<div class="card" style="width: 18rem;">
+					<div class="card" style="width: 16rem;">
 					  <img src="..." class="card-img-top" alt="...">
 					  <div class="card-body">
 					    <h5 class="card-title">Card title</h5>
@@ -154,7 +154,7 @@
 					</div>
 					</div>
 					<div class="col">
-					<div class="card" style="width: 18rem;">
+					<div class="card" style="width: 16rem;">
 					  <img src="..." class="card-img-top" alt="...">
 					  <div class="card-body">
 					    <h5 class="card-title">Card title</h5>
@@ -164,7 +164,7 @@
 					</div>
 					</div>
 					<div class="col">
-					<div class="card" style="width: 18rem;">
+					<div class="card" style="width: 16rem;">
 					  <img src="..." class="card-img-top" alt="...">
 					  <div class="card-body">
 					    <h5 class="card-title">Card title</h5>
