@@ -1594,6 +1594,27 @@ h3 {
     opacity: 0;
 }
 
+.instanciado:hover a,
+.instanciado a:focus {
+	position: absolute;
+    right: -8px;
+    top: 33px;
+    width: 16px;
+    height: 16px;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    background: #BD7EB7;
+    content: '';
+    opacity: 0;
+}
+
+.instanciado:hover a::before,
+.instanciado a:focus::before {
+    opacity: 1;
+}
+
 .instanciado:hover a::before {
     opacity: 1;
 }
