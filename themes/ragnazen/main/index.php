@@ -118,7 +118,7 @@
 				</button>
 				<ul class="list-group">
 					<li class="list-group-item instanciado">
-						<a class="btn" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Nome da Instância</a>
+						<a class="btn" data-bs-toggle="collapse" data-bs-target="#instance01" aria-expanded="false" aria-controls="instance01">Nome da Instância</a>
 						<small>Instância</small>
 					</li>
 					<li class="list-group-item instanciado">A second item</li>
@@ -129,7 +129,7 @@
 			</div>
 			<!-- Mostruario -->
 			<div class="col-md-8">
-				<div class="collapse" id="collapseExample">
+				<div class="collapse" id="instance01">
 					<div class="card card-body">
 						Some placeholder content for the collapse component. This panel is hidden by default but
 						revealed when the user activates the relevant trigger.
