@@ -70,7 +70,7 @@
 </div>
 
 <!-- CMSNews -->
-<div class="row">
+<div class="row center">
 	<div class="col-md-4">
 		<h3>Novidades & Atualizações</h3>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat augue a luctus rhoncus.</p>
