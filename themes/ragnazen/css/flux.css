@@ -1623,6 +1623,7 @@ h3 {
 	margin-top: -48px;
     color: white;
     margin-left: 14px;
+	font-weight: 500;
 }
 
 .box-instance p:nth-of-type(2) {
