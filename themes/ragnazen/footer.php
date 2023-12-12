@@ -151,9 +151,9 @@
 	function reload() { window.location.href = '<?php echo $this->url ?>'; }
 </script>
 <script>
-	document.querySelector('.instanciado').addEventListener('click', function (event) {
-    event.preventDefault();
-    this.focus();
+	$('.instanciado').click(function() {
+    $('.instanciado').removeClass('active');
+    $(this).addClass('active');
 });
 
 </script>
