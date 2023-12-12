@@ -1597,6 +1597,10 @@ h3 {
     opacity: 0;
 }
 
+.instanciado:hover a::before {
+    opacity: 1;
+}
+
 .small, small {
     display: block;
     padding-left: 67px !important;
