@@ -35,7 +35,7 @@
 	</div>
 </div>
 
-<div class="row center">
+<div class="row center espaco">
 <h3>Welcome</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat augue a luctus rhoncus. Sed eget felis at magna scelerisque vehicula ac elementum magna. Donec sollicitudin, ipsum et sodales euismod, ligula magna congue dolor, sed sodales elit mauris quis eros.</p>
 </div>

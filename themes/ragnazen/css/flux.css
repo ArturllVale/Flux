@@ -1398,3 +1398,7 @@ textarea {
 	text-align: -webkit-center;
 	--bs-gutter-x: -20rem !important;
 }
+
+.espaco {
+	margin-top: 5em;
+}
