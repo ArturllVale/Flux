@@ -1404,5 +1404,16 @@ textarea {
 }
 
 .md-img{
-	max-width: 250px;
+	max-width: 380px;
+}
+
+.btn-secondary p {
+	float: left;
+}
+.btn-secondary i {
+	font-size: 37px;
+}
+
+.btn-secondary p:nth-child(2) {
+	font-size: 8px;
 }
