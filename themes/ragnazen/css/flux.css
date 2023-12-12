@@ -1545,5 +1545,13 @@ h3 {
 }
 
 .instanciado {
-	font-size: 15px;
+	background-color: #bd7eb7 !important;
+    border-color: #bd7eb7 !important;
+    border-radius: 10px !important;
+    padding: 10px !important;
+    margin-bottom: 10px !important;
+    margin-top: 10px !important;
+    color: white !important;
+    font-family: 'Nunito' !important;
+    font-weight: 600 !important;
 }
