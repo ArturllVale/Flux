@@ -1421,7 +1421,7 @@ textarea {
 	float: right;
 }
 
-.btn-secondary p:nth-child(3) {
+.btn-secondary p:nth-child(2) {
 	font-size: 8px;
 	text-align: left;
 }
