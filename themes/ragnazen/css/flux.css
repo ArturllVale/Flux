@@ -1360,6 +1360,11 @@ textarea {
 	padding-top: 34px;
 }
 
-.online p{
-	padding-bottom: 0px;
+.online p {
+    margin-bottom: 9px;
+    margin-top: -10px;
+}
+
+.block-top {
+	margin-top: -2em;
 }

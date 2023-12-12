@@ -1,7 +1,7 @@
 <?php if (!defined('FLUX_ROOT'))
 	exit; ?>
 
-<div class="row center">
+<div class="row center block-top">
 	<div class="col">
         <div class="bloco-index">
 		    <i class="fas fa-shield-virus"></i>
