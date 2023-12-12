@@ -1444,11 +1444,11 @@ h3 {
 /* Carousel */
 
 :root {
-    --bg1: url("https://images.unsplash.com/photo-1511882150382-421056c89033?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-    --bg2: url("https://images.unsplash.com/photo-1513622470522-26c3c8a854bc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-    --bg3: url("https://images.unsplash.com/photo-1569959220744-ff553533f492?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-    --bg4: url("https://images.unsplash.com/photo-1607585011081-241d2bacb7de?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-    --bg5: url("https://images.unsplash.com/photo-1449452198679-05c7fd30f416?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    --bg1: url("https://uploads.adrenaline.com.br/2023/04/Ragnarok-Online-atualizacao-O-Caminho-das-Classes-4-02.jpg");
+    --bg2: url("https://playragnarokonlinebr.com/img/episodios/road-to-ragnarok.png");
+    --bg3: url("https://cdn.cloudflare.steamstatic.com/steam/apps/215100/ss_3c9ec8c019fd00dd699ff99921f5da96a016613e.1920x1080.jpg");
+    --bg4: url("https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/06/12/ragnarok-online-capa-skq2aref3xo6.jpg");
+    --bg5: url("https://cdn.cloudflare.steamstatic.com/steam/apps/215100/ss_33ab34ec781d8eaf2c936950bee837bc3c4cee18.1920x1080.jpg");
 }
 
 .box-container {
