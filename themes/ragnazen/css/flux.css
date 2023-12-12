@@ -1362,6 +1362,10 @@ textarea {
     position: relative;
 }
 
+.bloco-index i {
+	margin-bottom: 5px;
+}
+
 .online p {
     margin-bottom: 9px;
     margin-top: -10px;
