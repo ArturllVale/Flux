@@ -115,7 +115,15 @@
 				<button class="btn btn-primary instanciado" type="button" data-bs-toggle="collapse"
 					data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
 					Button with data-bs-target
+					<small>Subdescrição aqui</small>
 				</button>
+				<ul class="list-group">
+					<li class="list-group-item">An item</li>
+					<li class="list-group-item">A second item</li>
+					<li class="list-group-item">A third item</li>
+					<li class="list-group-item">A fourth item</li>
+					<li class="list-group-item">And a fifth one</li>
+				</ul>
 			</div>
 			<!-- Mostruario -->
 			<div class="col-md-8">
