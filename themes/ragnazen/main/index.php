@@ -112,13 +112,15 @@
 		<div class="row">
 			<!-- Seleção -->
 			<div class="col-md-3">
-				<button class="btn btn-primary instanciado" type="button" data-bs-toggle="collapse"
-					data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+				<button class="btn btn-primary instanciado" type="button" >
 					Button with data-bs-target
 					<small>Subdescrição aqui</small>
 				</button>
 				<ul class="list-group">
-					<li class="list-group-item instanciado">An item</li>
+					<li class="list-group-item instanciado">
+						<a class="btn" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Nome da Instância</a>
+						<small>Instância</small>
+					</li>
 					<li class="list-group-item instanciado">A second item</li>
 					<li class="list-group-item instanciado">A third item</li>
 					<li class="list-group-item instanciado">A fourth item</li>
