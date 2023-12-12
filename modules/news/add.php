@@ -2,14 +2,14 @@
 if (!defined('FLUX_ROOT')) exit;
 $title = Flux::message('NewsAddTitle');
 
-// Form values.
-$news	= Flux::config('FluxTables.CMSNewsTable');
-$title	= trim($params->get('news_title'));
-$body	= trim($params->get('news_body'));
-$link	= trim($params->get('news_link'));
-$author	= trim($params->get('news_author'));
+$news   = Flux::config('FluxTables.CMSNewsTable');
+$title  = trim($params->get('news_title') ?? '');
+$body   = trim($params->get('news_body') ?? '');
+$link   = trim($params->get('news_link') ?? '');
+$author = trim($params->get('news_author') ?? '');
 
-$tinymce_key = Flux::config('TinyMCEKey'); 
+$tinymce_key = Flux::config('TinyMCEKey');
+
 
 if(count($_POST)){
     if($title === '') {
