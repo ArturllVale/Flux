@@ -109,6 +109,23 @@
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat augue a luctus rhoncus.</p>
 	</div>
 	<div class="row">
-		
+		<div class="col-md-4">
+		<p>
+			<button class="btn btn-primary" type="button" data-bs-toggle="collapse"
+				data-bs-target="#collapseWidthExample" aria-expanded="false" aria-controls="collapseWidthExample">
+				Toggle width collapse
+			</button>
+		</p>
+		</div>
+		<div class="col-md-8">
+		<div style="min-height: 120px;">
+			<div class="collapse collapse-horizontal" id="collapseWidthExample">
+				<div class="card card-body" style="width: 300px;">
+					This is some placeholder content for a horizontal collapse. It's hidden by default and shown when
+					triggered.
+				</div>
+			</div>
+		</div>
+		</div>
 	</div>
 </div>
