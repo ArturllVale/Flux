@@ -108,24 +108,28 @@
 		<h3>Instâncias</h3>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat augue a luctus rhoncus.</p>
 	</div>
-	<div class="row">
-		<div class="col-md-4">
-		<p>
-			<button class="btn btn-primary" type="button" data-bs-toggle="collapse"
-				data-bs-target="#collapseWidthExample" aria-expanded="false" aria-controls="collapseWidthExample">
-				Toggle width collapse
-			</button>
-		</p>
-		</div>
-		<div class="col-md-8">
-		<div style="min-height: 120px;">
-			<div class="collapse collapse-horizontal" id="collapseWidthExample">
-				<div class="card card-body" style="width: auto;">
-					This is some placeholder content for a horizontal collapse. It's hidden by default and shown when
-					triggered.
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3">
+				<p class="d-inline-flex gap-1">
+					<a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button"
+						aria-expanded="false" aria-controls="collapseExample">
+						Link with href
+					</a>
+					<button class="btn btn-primary" type="button" data-bs-toggle="collapse"
+						data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+						Button with data-bs-target
+					</button>
+				</p>
+			</div>
+			<div class="col-md-8">
+				<div class="collapse" id="collapseExample">
+					<div class="card card-body">
+						Some placeholder content for the collapse component. This panel is hidden by default but
+						revealed when the user activates the relevant trigger.
+					</div>
 				</div>
 			</div>
-		</div>
 		</div>
 	</div>
 </div>
