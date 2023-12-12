@@ -1408,21 +1408,24 @@ textarea {
 }
 
 .btn-secondary {
-	min-width: 270px;
-    padding: 15px;
+	min-width: 237px;
+    background-color: #BD7EB7 !important;
+    border-color: #BD7EB7 !important;
 }
 
 .btn-secondary p {
 	text-align: left;
+	padding-top: 10px;
 }
 
 .btn-secondary i {
 	font-size: 37px;
-	float: right;
+    float: right;
+    margin-top: -33px;
 }
 
 .btn-secondary p:nth-of-type(2) {
-	font-size: 8px;
-	text-align: left;
-	margin-top: -28px;
+	font-size: 12px;
+    text-align: left;
+    margin-top: -50px;
 }
