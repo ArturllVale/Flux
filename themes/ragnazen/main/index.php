@@ -81,6 +81,22 @@
 		<button type="button" class="btn btn-info">Info</button>
 	</div>
 	<div class="col-md-8">
-		
+		<div class="box-container">
+			<div class="box">
+				<div class="overlay"></div>
+			</div>
+			<div class="box">
+				<div class="overlay"></div>
+			</div>
+			<div class="box">
+				<div class="overlay"></div>
+			</div>
+			<div class="box">
+				<div class="overlay"></div>
+			</div>
+			<div class="box">
+				<div class="overlay"></div>
+			</div>
+		</div>
 	</div>
 </div>
