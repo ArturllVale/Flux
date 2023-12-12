@@ -104,7 +104,7 @@
 <!-- Instâncias -->
 
 <div class="container-fluid">
-	<div class="row espaco">
+	<div class="row espaco center">
 		<h3>Instâncias</h3>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat augue a luctus rhoncus.</p>
 	</div>
