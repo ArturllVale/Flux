@@ -1625,6 +1625,13 @@ h3 {
     margin-left: 14px;
 }
 
+.box-instance p:nth-of-type(2) {
+	padding: 20px;
+    margin-top: -20px;
+    font-family: 'Nunito';
+    color: #858585;
+}
+
 .box-instance small {
 	margin-top: -19px;
     color: white;
