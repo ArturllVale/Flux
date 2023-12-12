@@ -69,7 +69,15 @@
 	</div>
 </div>
 
+<!-- CMSNews -->
+<div class="row">
+	<div class="col-md-4">
+		<h3>Novidades & Atualizações</h3>
+	</div>
+	<div class="col-md-8">
 
+	</div>
+</div>
 
 
 
