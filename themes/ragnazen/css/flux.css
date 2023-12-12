@@ -1543,3 +1543,7 @@ h3 {
 .dropdown-item:focus, .dropdown-item:hover {
     background-color: #f8dafd !important;
 }
+
+.instanciado {
+	font-size: 15px;
+}

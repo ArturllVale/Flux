@@ -112,12 +112,10 @@
 		<div class="row">
 			<!-- Seleção -->
 			<div class="col-md-3">
-				<p class="d-inline-flex gap-1">
-					<button class="btn btn-primary" type="button" data-bs-toggle="collapse"
-						data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-						Button with data-bs-target
-					</button>
-				</p>
+				<button class="btn btn-primary instanciado" type="button" data-bs-toggle="collapse"
+					data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+					Button with data-bs-target
+				</button>
 			</div>
 			<!-- Mostruario -->
 			<div class="col-md-8">
