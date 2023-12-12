@@ -1477,7 +1477,7 @@ h3 {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: auto 200%;
+    background-size: auto 100%;
 }
 .box-container .box:nth-child(2) {
     background: var(--bg2);
