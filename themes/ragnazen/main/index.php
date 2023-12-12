@@ -1,6 +1,7 @@
 <?php if (!defined('FLUX_ROOT')) exit; ?>
 
 <h1>Testando isso</h1>
+<!--
 <?php if(Flux::config('CMSNewsOnHomepage')): ?>
 	<h2><?php echo htmlspecialchars(sprintf(Flux::message('MainPageWelcome'), Flux::config('SiteTitle'))) ?></h2>
 
@@ -61,3 +62,4 @@
 	</ol>
 	<p style="text-align: right"><strong><em><?php echo htmlspecialchars(Flux::message('MainPageThanks')) ?></em></strong></p>
 <?php endif ?>
+-->
