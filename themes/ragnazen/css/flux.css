@@ -1405,9 +1405,9 @@ textarea {
 }
 
 h3 {
-	font-family: 'Nunito';
-    color: #2c5370;
-    font-weight: 600;
+	font-family: 'Nunito' !important;
+    color: #2c5370 !important;
+    font-weight: 600 !important;
 }
 
 .md-img{
