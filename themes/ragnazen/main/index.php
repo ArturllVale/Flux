@@ -10,7 +10,7 @@
 	</div>
 	<div class="col">
         <div class="bloco-index">
-		    <i class="fas fa-khanda"></i>
+		    <i class="fas fa-khanda blue"></i>
 		    <p>Hard Mod</p>
         </div>
 	</div>
