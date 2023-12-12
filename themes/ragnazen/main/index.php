@@ -76,9 +76,9 @@
 <!-- CMSNews -->
 <div class="row center espaco">
 	<div class="col-md-4">
-		<h3>Novidades & Atualizações</h3>
+		<h3>Novidades</h3>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat augue a luctus rhoncus.</p>
-		<button type="button" class="btn btn-info">Info</button>
+		<button type="button" class="btn btn-info">Ver todas as Novidades</button>
 	</div>
 	<div class="col-md-8">
 		<div class="box-container">
