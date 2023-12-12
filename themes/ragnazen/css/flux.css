@@ -1537,4 +1537,9 @@ h3 {
 
 .dropdown-menu.show {
     margin-left: -20px !important;
+	border-color: #bd7eb7 !important;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    background-color: #f8dafd !important;
 }
