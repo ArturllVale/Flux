@@ -143,6 +143,7 @@
 			<!-- Mostruario -->
 			<div class="col-md-8">
 				<div class="collapse" id="instance01">
+				<p class="d-inline-flex gap-1">
 					<div class="col">
 					<div class="card" style="width: 16rem;">
 					  <img src="..." class="card-img-top" alt="...">
@@ -173,6 +174,7 @@
 					  </div>
 					</div>
 					</div>
+				</p>
 				</div>
 			</div>
 		</div>
