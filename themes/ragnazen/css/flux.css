@@ -1411,6 +1411,7 @@ textarea {
 	min-width: 237px;
     background-color: #BD7EB7 !important;
     border-color: #BD7EB7 !important;
+	margin-bottom: 0.5em;
 }
 
 .btn-secondary p {

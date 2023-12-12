@@ -40,7 +40,7 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat augue a luctus rhoncus. Sed eget felis at magna scelerisque vehicula ac elementum magna. Donec sollicitudin, ipsum et sodales euismod, ligula magna congue dolor, sed sodales elit mauris quis eros.</p>
 </div>
 
-<div class="row">
+<div class="row center">
 	<div class="col-md-4">
 		<img class="md-img" src="<?php echo $this->themePath('img/img03.png'); ?>" alt="Ragnarok Online Kawaii" />
 	</div>
