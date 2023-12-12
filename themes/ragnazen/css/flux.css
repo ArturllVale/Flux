@@ -1614,4 +1614,6 @@ h3 {
 
 .box-instance {
 	max-width: 250px;
+	background-color: #fff;
+	box-shadow: 0px 19px 18px 11px rgba(0,0,0,0.1);
 }
