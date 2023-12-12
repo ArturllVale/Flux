@@ -145,6 +145,7 @@
 				<div class="row">
 				<div class="collapse" id="instance01">
 					
+					<div class="col">
 					<div class="card" style="width: 15rem;">
 					  <img src="..." class="card-img-top" alt="...">
 					  <div class="card-body">
@@ -153,8 +154,9 @@
 					    <a href="#" class="btn btn-primary">Go somewhere</a>
 					  </div>
 					</div>
-					
-					
+					</div>
+
+					<div class="col">
 					<div class="card" style="width: 15rem;">
 					  <img src="..." class="card-img-top" alt="...">
 					  <div class="card-body">
@@ -163,7 +165,8 @@
 					    <a href="#" class="btn btn-primary">Go somewhere</a>
 					  </div>
 					</div>
-					
+					</div>
+
 				</div>
 				</div>
 			</div>
