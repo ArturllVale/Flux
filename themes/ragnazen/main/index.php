@@ -48,16 +48,19 @@
 	<button type="button" class="btn btn-secondary">
 		<p>Register</p>
 		<i class="fas fa-user-plus"></i>
+		<br>
 		<p>Criar uma conta</p>
 	</button>
 	<button type="button" class="btn btn-secondary">
 		<p>Download</p>
 		<i class="fas fa-cloud-download-alt"></i>
+		<br>
 		<p>Baixe o Jogo</p>
 	</button>
 	<button type="button" class="btn btn-secondary">
 		<p>Discord</p>
 		<i class="fab fa-discord"></i>
+		<br>
 		<p>Acesse a Comunidade</p>
 	</button>
 	</div>
