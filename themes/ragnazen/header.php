@@ -26,7 +26,7 @@
 
     <!-- Fixed navbar -->
 	<?php include $this->themePath('main/navbar.php', true) ?>
-	<?php include $this->themePath('main/header.php', false) ?>
+	<?php include $this->themePath('main/header.php', true) ?>
 	<div class="wave-container"></div>
 	<div class="wave-container2"></div>
 	<div class="wave-container3"></div>
