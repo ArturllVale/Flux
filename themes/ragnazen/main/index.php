@@ -103,6 +103,12 @@
 
 <!-- Instâncias -->
 
-<div class="row">
-	
+<div class="container-fluid">
+	<div class="row espaco">
+		<h3>Instâncias</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat augue a luctus rhoncus.</p>
+	</div>
+	<div class="row">
+
+	</div>
 </div>
