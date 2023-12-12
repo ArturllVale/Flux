@@ -141,7 +141,8 @@
 				</ul>
 			</div>
 			<!-- Mostruario -->
-			<div class="col-md-8 d-inline-flex gap-1">
+			<div class="col-md-8">
+				<div class="row">
 				<div class="collapse" id="instance01">
 					
 					<div class="card" style="width: 15rem;">
@@ -163,6 +164,7 @@
 					  </div>
 					</div>
 					
+				</div>
 				</div>
 			</div>
 		</div>
