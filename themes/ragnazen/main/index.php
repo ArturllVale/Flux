@@ -142,10 +142,10 @@
 			</div>
 			<!-- Mostruario -->
 			<div class="col-md-8">
-				<div class="row">
+				<div class="grid">
 				<div class="collapse" id="instance01">
-					
-					<div class="col">
+
+					<div class="g-col-4">
 					<div class="card" style="width: 15rem;">
 					  <img src="..." class="card-img-top" alt="...">
 					  <div class="card-body">
@@ -156,7 +156,7 @@
 					</div>
 					</div>
 
-					<div class="col">
+					<div class="g-col-4">
 					<div class="card" style="width: 15rem;">
 					  <img src="..." class="card-img-top" alt="...">
 					  <div class="card-body">
