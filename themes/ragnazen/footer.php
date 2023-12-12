@@ -151,6 +151,13 @@
 	function reload() { window.location.href = '<?php echo $this->url ?>'; }
 </script>
 <script>
+	document.querySelector('.instanciado').addEventListener('click', function (event) {
+    event.preventDefault();
+    this.focus();
+});
+
+</script>
+<script>
 	const boxes = document.querySelectorAll(".box");
 let activeIndex = 1;
 let isTransitioning = false;
