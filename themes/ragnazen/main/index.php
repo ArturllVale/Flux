@@ -145,7 +145,7 @@
 				<div class="grid">
 				<div class="collapse" id="instance01">
 
-					<div class="g-col-4">
+					<div class="g-col-6 g-col-md-4">
 					<div class="card">
 					  <img src="..." class="card-img-top" alt="...">
 					  <div class="card-body">
@@ -156,7 +156,7 @@
 					</div>
 					</div>
 
-					<div class="g-col-4">
+					<div class="g-col-6 g-col-md-4">
 					<div class="card">
 					  <img src="..." class="card-img-top" alt="...">
 					  <div class="card-body">
