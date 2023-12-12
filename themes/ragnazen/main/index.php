@@ -146,24 +146,16 @@
 				
 				
 					<div class="g-col-6 g-col-md-4 collapse" id="instance01">
-					<div class="card">
-					  <img src="..." class="card-img-top" alt="...">
-					  <div class="card-body">
-					    <h5 class="card-title">Card title</h5>
-					    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-					    <a href="#" class="btn btn-primary">Go somewhere</a>
-					  </div>
+					<div class="box-instance">
+						<h3>Instancia</h3>
+						<p>Descrição aquo</p>
 					</div>
 					</div>
 
 					<div class="g-col-6 g-col-md-4 collapse" id="instance01">
-					<div class="card">
-					  <img src="..." class="card-img-top" alt="...">
-					  <div class="card-body">
-					    <h5 class="card-title">Card title</h5>
-					    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-					    <a href="#" class="btn btn-primary">Go somewhere</a>
-					  </div>
+					<div class="box-instance">
+						<h3>Instancia</h3>
+						<p>Descrição aquo</p>
 					</div>
 					</div>
 
