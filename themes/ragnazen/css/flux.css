@@ -1465,7 +1465,7 @@ h3 {
 }
 .box-container .box {
     width: 25%;
-    height: 340px;
+    height: 320px;
     border-radius: 25px;
     cursor: pointer;
     transition: width 0.5s ease-in-out;
