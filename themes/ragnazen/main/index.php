@@ -110,6 +110,7 @@
 	</div>
 	<div class="container">
 		<div class="row">
+			<!-- Seleção -->
 			<div class="col-md-3">
 				<p class="d-inline-flex gap-1">
 					<a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button"
@@ -122,6 +123,7 @@
 					</button>
 				</p>
 			</div>
+			<!-- Mostruario -->
 			<div class="col-md-8">
 				<div class="collapse" id="collapseExample">
 					<div class="card card-body">
