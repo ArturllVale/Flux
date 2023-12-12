@@ -73,6 +73,8 @@
 <div class="row">
 	<div class="col-md-4">
 		<h3>Novidades & Atualizações</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat augue a luctus rhoncus.</p>
+		<button type="button" class="btn btn-info">Info</button>
 	</div>
 	<div class="col-md-8">
 
