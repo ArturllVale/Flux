@@ -1358,6 +1358,8 @@ textarea {
     height: 120px;
     border-radius: 10px;
 	padding-top: 34px;
+	z-index: 2;
+    position: relative;
 }
 
 .online p {
@@ -1366,5 +1368,5 @@ textarea {
 }
 
 .block-top {
-	margin-top: -2em;
+    margin-top: -7em !important;
 }
