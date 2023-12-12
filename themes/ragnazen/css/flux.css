@@ -1571,3 +1571,14 @@ h3 {
     border-color: #bd7eb7 !important;
 }
 
+.instanciado a {
+	color: white;
+    font-family: 'Nunito';
+    font-weight: 600;
+    margin-bottom: -13px;
+}
+
+.small, small {
+    display: block;
+	padding-left: 13px !important;
+}
