@@ -1376,6 +1376,23 @@ textarea {
     margin-top: -10px;
 }
 
+.online p:nth-child(1) {
+    color: #29ff29;
+    margin-top: -22px;
+}
+
+.online p:nth-child(2) {
+	font-size: 28px;
+    font-family: fantasy;
+    margin-top: 5px;
+    margin-bottom: -5px;
+}
+
+.online p:nth-child(3) {
+	margin-top: -2px;
+}
+
+
 .block-top {
     margin-top: -7em !important;
 	text-align: -webkit-center;
