@@ -1407,6 +1407,11 @@ textarea {
 	max-width: 380px;
 }
 
+.btn-secondary {
+	min-width: 270px;
+    padding: 15px;
+}
+
 .btn-secondary p {
 	float: left;
 }
@@ -1414,6 +1419,6 @@ textarea {
 	font-size: 37px;
 }
 
-.btn-secondary p:nth-child(2) {
+.btn-secondary p:nth-child(3) {
 	font-size: 8px;
 }
