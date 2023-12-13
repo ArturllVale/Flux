@@ -147,7 +147,9 @@
 				
 					<div class="col-md-4 collapse" id="instance01">
 					<div class="box-instance">
+						<div class="img-overlay">
 						<img class="box-img" src="<?php echo $this->themePath('img/god.png'); ?>" alt="" />
+						</div>
 						<p>Descrição aquo</p>
 						<small>Instância: <span style="color: green;">Disponível</span></small>
 						<hr>
