@@ -1767,6 +1767,10 @@ small {
     color: white !important;
 }
 
+.woe p {
+    padding-top: 1em;
+}
+
 .lista-dias {
     list-style: none;
     margin-bottom: 7px;
