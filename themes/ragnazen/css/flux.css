@@ -1679,3 +1679,7 @@ small {
 .sub {
     margin-top: -13px;
 }
+
+.more-inst {
+    padding: 1px;
+}
