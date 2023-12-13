@@ -1893,5 +1893,7 @@ small {
 }
 
 .credit {
-    background-color: #242424;
+    background-color: #2e2e2e;
+    height: 55px;
+    align-content: end;
 }
