@@ -58,7 +58,7 @@
 				</form>
 			</div>
 		</div>
-		<div class="row">
+		<div class="row center">
 			<p class="credit">RagnaZen 2024 - Desenvolvido por <span>Lumen</span></p>
 		</div>
 	</div>

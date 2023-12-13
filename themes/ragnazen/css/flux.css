@@ -1890,3 +1890,7 @@ small {
     letter-spacing: 1px;
     text-transform: uppercase;
 }
+
+.credit {
+    background-color: #242424;
+}
