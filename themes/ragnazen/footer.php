@@ -26,7 +26,9 @@
 					<li>Doações</li>
 				</ul>
 			</div>
-			<div class="col"></div>
+			<div class="col">
+			<img class="foo-img" src="<?php echo $this->themePath('img/logo.png'); ?>" alt="" />
+			</div>
 			<div class="col">
 				<?php if (count(Flux::$appConfig->get('ThemeName', false)) > 1): ?>
 					<span>Tema:
