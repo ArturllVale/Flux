@@ -1707,3 +1707,16 @@ small {
 .pxEspac {
     height: 580px;
 }
+
+.box-info {
+    width: 150px;
+    height: 116px;
+    box-shadow: 0px -11px 14px 7px rgba(0,0,0,0.1);
+    margin-bottom: -10px;
+    z-index: -1;
+    position: relative;
+}
+
+.box-info p {
+    font-size: 12px;
+}
