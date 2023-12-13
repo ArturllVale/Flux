@@ -62,7 +62,7 @@
 		</div>
 		</div>
 		<div class="row center credit">
-		<p>RagnaZen 2024 - Desenvolvido por <span>Lumen</span></p>
+		<p>RagnaZen 2024 - Desenvolvido por <span style="color: #95f77d;">Lumen</span></p>
 	</div>
 	</div>
 </div>

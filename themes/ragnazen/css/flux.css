@@ -1897,3 +1897,7 @@ small {
     height: 55px;
     align-content: end;
 }
+
+.foo-img {
+    max-width: 200px;
+}
