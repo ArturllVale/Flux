@@ -1766,3 +1766,7 @@ small {
 .woe h3 {
     color: white !important;
 }
+
+.lista-dias {
+    background-color: none;
+}
