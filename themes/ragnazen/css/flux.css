@@ -1577,8 +1577,10 @@ h3 {
     color: white;
     font-family: "Nunito";
     font-weight: 600;
-    margin-top: 0px;
-    margin-left: 27px;
+    margin-bottom: 6px;
+    margin-left: 50px;
+    padding: 0px;
+    margin-top: 8px;
 }
 
 .instanciado a::before {
