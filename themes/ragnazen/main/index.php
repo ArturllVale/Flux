@@ -115,7 +115,7 @@
 				<ul class="list-group">
 					<li class="list-group-item instanciado btn" data-bs-toggle="collapse" data-bs-target="#instance01" aria-expanded="false" aria-controls="instance01">
 						<img class="in-img" src="<?php echo $this->themePath('img/land.png'); ?>" alt="" />
-						<a>Nome da Instância</a>
+						<a class="btn">Nome da Instância</a>
 						<small>Instância</small>
 					</li>
 					<li class="list-group-item instanciado btn" data-bs-toggle="collapse" data-bs-target="#instance01" aria-expanded="false" aria-controls="instance01">
