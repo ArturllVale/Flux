@@ -1877,3 +1877,8 @@ small {
     content: '»'; /* Caractere que você deseja usar */
     margin-right: 5px;
 }
+
+.f-title {
+    color: #5dd7fd;
+    font-weight: 500;
+}

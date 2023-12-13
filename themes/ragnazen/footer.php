@@ -10,7 +10,7 @@
 		<div class="row">
 			<div class="col">
 				<ul>
-					<p>Links Rápidos:</p>
+					<p class="f-title">Links Rápidos:</p>
 					<li>Criar conta</li>
 					<li>Informações</li>
 					<li>Download</li>
