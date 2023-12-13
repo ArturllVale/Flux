@@ -134,9 +134,7 @@
 						<small class="sub">Instância</small>
 					</li>
 					<li class="list-group-item instanciado btn" data-bs-toggle="collapse" data-bs-target="#instance01" aria-expanded="false" aria-controls="instance01">
-						<img class="in-img" src="<?php echo $this->themePath('img/land.png'); ?>" alt="" />
-						<a class="btn">Nome da Instância 05</a>
-						<small class="sub">Instância</small>
+						<a class="btn">Mais <i class="fab fa-wikipedia-w"></i></a>
 					</li>
 				</ul>
 			</div>
