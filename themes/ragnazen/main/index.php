@@ -192,25 +192,25 @@
 	<div class="row center estati">
 		<div class="col">
 			<div class="box-info">
-			<small><i class="fas fa-circle" style="color: #48C9FD;"></i>Total Personagens</small>
+			<small><i class="fas fa-circle"></i>Total Personagens</small>
 			<p class="count-info">1,256</p>
 			</div>
 		</div>
 		<div class="col">
 			<div class="box-info">
-			<small>Total Contas</small>
+			<small><i class="fas fa-circle"></i>Total Contas</small>
 			<p class="count-info">593</p>
 			</div>
 		</div>
 		<div class="col">
 			<div class="box-info">
-			<small>Total Clãs</small>
+			<small><i class="fas fa-circle"></i>Total Clãs</small>
 			<p class="count-info">102</p>
 			</div>
 		</div>
 		<div class="col">
 			<div class="box-info">
-			<small>Pico Online</small>
+			<small><i class="fas fa-circle"></i>Pico Online</small>
 			<p class="count-info">982</p>
 			</div>
 		</div>

@@ -1734,3 +1734,11 @@ small {
     font-weight: 500;
     color: #9f9f9f;
 }
+
+.box-info i {
+    color: #48C9FD;
+    font-size: 7px;
+    margin-left: -18px;
+    margin-top: 3px;
+    margin-right: -3px;
+}
