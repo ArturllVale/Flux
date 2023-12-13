@@ -1192,7 +1192,8 @@ textarea {
 }
 
 .header-main {
-    background-color: #47c9fd;
+    background: rgb(71,201,253);
+    background: linear-gradient(120deg, rgba(71,201,253,1) 0%, rgba(130,240,255,1) 100%);
 }
 
 .header-img {
