@@ -226,9 +226,9 @@
 			<h3>Guerra do Emperium</h3>
 			<p>Junte seu clã e venha competir com os melhores, receba recompensa e poteja seu território.</p>
 			<ul>
-				<li class="lista-dias"><i class="fas fa-calendar-day"></i> Domingo</li>
-				<li class="lista-dias"><i class="fas fa-calendar-day"></i> Terça</li>
-				<li class="lista-dias"><i class="fas fa-calendar-day"></i> Sexta</li>
+				<li class="lista-dias"><i class="fas fa-calendar-day"></i> Domingo <span>Castelo 1</span></li>
+				<li class="lista-dias"><i class="fas fa-calendar-day"></i> Terça <span>Castelo 2</span></li>
+				<li class="lista-dias"><i class="fas fa-calendar-day"></i> Sexta <span>Castelo Ratibum</span></li>
 			</ul>
 		</div>
 		<div class="col-md-4">
