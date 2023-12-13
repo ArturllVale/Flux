@@ -5,24 +5,11 @@
 <div id="footer">
 	<div class="container">
 		<p class="text-muted">
-			<?php if (Flux::config('ShowCopyright')): ?>
-				Powered by <a href="https://github.com/rathena/FluxCP" target="_blank">FluxCP</a>
-			<?php endif ?>
-			<?php if (Flux::config('ShowRenderDetails')): ?>
-
-				Page generated in <strong>
-					<?php echo round(microtime(true) - __START__, 5) ?>
-				</strong> second(s).
-				Number of queries executed: <strong>
-					<?php echo (int) Flux::$numberOfQueries ?>
-				</strong>.
-				<?php if (Flux::config('GzipCompressOutput')): ?>Gzip Compression: <strong>Enabled</strong>.
-				<?php endif ?>
-
-			<?php endif ?>
+			
+			<!--Tema -->
 			<?php if (count(Flux::$appConfig->get('ThemeName', false)) > 1): ?>
-				<span>Theme:
-					<select name="preferred_theme" onchange="updatePreferredTheme(this)">
+				<span>Tema:
+					<select class="form-select" name="preferred_theme" onchange="updatePreferredTheme(this)">
 						<?php foreach (Flux::$appConfig->get('ThemeName', false) as $themeName): ?>
 							<option value="<?php echo htmlspecialchars($themeName) ?>" <?php if ($session->theme == $themeName)
 								   echo ' selected="selected"' ?>>
@@ -32,9 +19,9 @@
 					</select>
 				</span>
 			<?php endif ?>
-
+			<!--Lingua -->					
 			<span>Language:
-				<select name="preferred_language" onchange="updatePreferredLanguage(this)">
+				<select class="form-select" name="preferred_language" onchange="updatePreferredLanguage(this)">
 					<?php foreach (Flux::getAvailableLanguages() as $lang_key => $lang): ?>
 						<option value="<?php echo htmlspecialchars($lang_key) ?>" <?php if (!empty($_COOKIE['language']) && $_COOKIE['language'] == $lang_key)
 							   echo ' selected="selected"' ?>>
