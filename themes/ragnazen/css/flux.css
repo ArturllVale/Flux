@@ -1556,6 +1556,8 @@ h3 {
     font-family: "Nunito" !important;
     font-weight: 600 !important;
     height: 80px;
+    text-align: -webkit-left !important;
+    text-align: left !important;
 }
 
 .instanciado:hover {
@@ -1581,7 +1583,6 @@ h3 {
     margin-left: 66px;
     padding: 0px;
     margin-top: 8px;
-    text-align: -webkit-left !important;
 }
 
 .instanciado a::before {
