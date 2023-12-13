@@ -1829,6 +1829,8 @@ small {
     left: 0;
     background-image: url("https://playragnarokonlinebr.com/episodios/guerra-do-emperium-terceira-edicao/images/guerra-do-emperium-esquerda.png");
     background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
     opacity: 0.7; /* Valor entre 0 (totalmente transparente) e 1 (totalmente opaco) */
     z-index: -1; /* Garante que o pseudoelemento fique atrás do conteúdo da div */
 }
