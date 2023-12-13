@@ -5,7 +5,7 @@
 <div id="footer">
 	<div class="container-fluid">
 
-
+		<div class="container">
 		<!--Tema -->
 		<div class="row">
 			<div class="col">
@@ -57,6 +57,7 @@
 					<input type="hidden" name="preferred_theme" value="" />
 				</form>
 			</div>
+		</div>
 		</div>
 		<div class="row center credit">
 		<p>RagnaZen 2024 - Desenvolvido por <span>Lumen</span></p>
