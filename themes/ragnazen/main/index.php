@@ -188,7 +188,7 @@
 
 <!-- Estatisticas do servidor -->
 		</div>
-<div class="container">
+<div class="container contei-info">
 	<div class="row center estati">
 		<div class="col">
 			<div class="box-info">
