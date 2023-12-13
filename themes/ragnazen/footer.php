@@ -5,35 +5,43 @@
 <div id="footer">
 	<div class="container">
 		<p class="text-muted">
-			
+
 			<!--Tema -->
-			<?php if (count(Flux::$appConfig->get('ThemeName', false)) > 1): ?>
-				<span>Tema:
-					<select class="form-select" name="preferred_theme" onchange="updatePreferredTheme(this)">
-						<?php foreach (Flux::$appConfig->get('ThemeName', false) as $themeName): ?>
-							<option value="<?php echo htmlspecialchars($themeName) ?>" <?php if ($session->theme == $themeName)
+		<div class="row">
+			<div class="col"></div>
+			<div class="col"></div>
+			<div class="col"></div>
+			<div class="col">
+				<?php if (count(Flux::$appConfig->get('ThemeName', false)) > 1): ?>
+					<span>Tema:
+						<select class="form-select" name="preferred_theme" onchange="updatePreferredTheme(this)">
+							<?php foreach (Flux::$appConfig->get('ThemeName', false) as $themeName): ?>
+								<option value="<?php echo htmlspecialchars($themeName) ?>" <?php if ($session->theme == $themeName)
+									   echo ' selected="selected"' ?>>
+									<?php echo htmlspecialchars($themeName) ?>
+								</option>
+							<?php endforeach ?>
+						</select>
+					</span>
+				<?php endif ?>
+				<!--Lingua -->
+				<span>Language:
+					<select class="form-select" name="preferred_language" onchange="updatePreferredLanguage(this)">
+						<?php foreach (Flux::getAvailableLanguages() as $lang_key => $lang): ?>
+							<option value="<?php echo htmlspecialchars($lang_key) ?>" <?php if (!empty($_COOKIE['language']) && $_COOKIE['language'] == $lang_key)
 								   echo ' selected="selected"' ?>>
-								<?php echo htmlspecialchars($themeName) ?>
+								<?php echo htmlspecialchars($lang) ?>
 							</option>
 						<?php endforeach ?>
 					</select>
 				</span>
-			<?php endif ?>
-			<!--Lingua -->					
-			<span>Language:
-				<select class="form-select" name="preferred_language" onchange="updatePreferredLanguage(this)">
-					<?php foreach (Flux::getAvailableLanguages() as $lang_key => $lang): ?>
-						<option value="<?php echo htmlspecialchars($lang_key) ?>" <?php if (!empty($_COOKIE['language']) && $_COOKIE['language'] == $lang_key)
-							   echo ' selected="selected"' ?>>
-							<?php echo htmlspecialchars($lang) ?>
-						</option>
-					<?php endforeach ?>
-				</select>
-			</span>
-		</p>
-		<form action="<?php echo $this->urlWithQs ?>" method="post" name="preferred_theme_form" style="display: none">
-			<input type="hidden" name="preferred_theme" value="" />
-		</form>
+				</p>
+				<form action="<?php echo $this->urlWithQs ?>" method="post" name="preferred_theme_form"
+					style="display: none">
+					<input type="hidden" name="preferred_theme" value="" />
+				</form>
+			</div>
+		</div>
 	</div>
 </div>
 
@@ -138,69 +146,73 @@
 	function reload() { window.location.href = '<?php echo $this->url ?>'; }
 </script>
 <script>
-	$('.instanciado').click(function() {
-    $('.instanciado').removeClass('active');
-    $(this).addClass('active');
-});
+	$('.instanciado').click(function () {
+		$('.instanciado').removeClass('active');
+		$(this).addClass('active');
+	});
 
 </script>
 <script>
 	const boxes = document.querySelectorAll(".box");
-let activeIndex = 1;
-let isTransitioning = false;
+	let activeIndex = 1;
+	let isTransitioning = false;
 
-function updateCurrentImg() {
-  isTransitioning = true;
+	function updateCurrentImg() {
+		isTransitioning = true;
 
-  boxes.forEach((box, index) => {
-    const isActive = index === activeIndex;
-    box.classList.toggle("expanded", isActive);
-    box.classList.toggle("closed", !isActive);
-  });
+		boxes.forEach((box, index) => {
+			const isActive = index === activeIndex;
+			box.classList.toggle("expanded", isActive);
+			box.classList.toggle("closed", !isActive);
+		});
 
-  setTimeout(() => {
-    isTransitioning = false;
-  }, 500);
-}
+		setTimeout(() => {
+			isTransitioning = false;
+		}, 500);
+	}
 
-function handleArrowKey(event) {
-  if (isTransitioning) {
-    return;
-  }
+	function handleArrowKey(event) {
+		if (isTransitioning) {
+			return;
+		}
 
-  if (event.key === "ArrowRight") {
-    activeIndex = (activeIndex + 1) % boxes.length;
-  } else if (event.key === "ArrowLeft") {
-    activeIndex = (activeIndex - 1 + boxes.length) % boxes.length;
-  }
+		if (event.key === "ArrowRight") {
+			activeIndex = (activeIndex + 1) % boxes.length;
+		} else if (event.key === "ArrowLeft") {
+			activeIndex = (activeIndex - 1 + boxes.length) % boxes.length;
+		}
 
-  updateCurrentImg();
-}
+		updateCurrentImg();
+	}
 
-function handleBoxClick(index) {
-  if (isTransitioning) {
-    return;
-  }
+	function handleBoxClick(index) {
+		if (isTransitioning) {
+			return;
+		}
 
-  if (index === activeIndex && boxes[index].classList.contains("expanded")) {
-    boxes.forEach((box) => box.classList.remove("closed", "expanded"));
-    activeIndex = 0;
-  } else {
-    activeIndex = index;
-    updateCurrentImg();
-  }
-}
+		if (index === activeIndex && boxes[index].classList.contains("expanded")) {
+			boxes.forEach((box) => box.classList.remove("closed", "expanded"));
+			activeIndex = 0;
+		} else {
+			activeIndex = index;
+			updateCurrentImg();
+		}
+	}
 
-document.addEventListener("keydown", handleArrowKey);
+	document.addEventListener("keydown", handleArrowKey);
 
-updateCurrentImg();
+	updateCurrentImg();
 
-boxes.forEach((box, index) => {
-  box.addEventListener("click", () => handleBoxClick(index));
-});
+	boxes.forEach((box, index) => {
+		box.addEventListener("click", () => handleBoxClick(index));
+	});
 </script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+	integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+	crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+	integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+	crossorigin="anonymous"></script>
 </body>
 
 </html>
