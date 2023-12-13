@@ -1624,6 +1624,7 @@ h3 {
     color: white;
     margin-left: 14px;
 	font-weight: 500;
+    text-shadow: -2px 1px 3px rgba(49,49,49,0.6);
 }
 
 .box-instance p:nth-of-type(2) {
