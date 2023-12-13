@@ -1878,6 +1878,10 @@ small {
     margin-right: 5px;
 }
 
+#footer li {
+    margin-left: 20px;
+}
+
 .f-title {
     color: #5dd7fd;
     font-weight: 500;
