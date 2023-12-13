@@ -1578,6 +1578,9 @@ h3 {
     font-weight: 600;
     margin-top: -20px;
     margin-left: -10px;
+    position: absolute;
+    left: 69px;
+    top: 30px;
 }
 
 .instanciado a::before {
@@ -1610,8 +1613,10 @@ small {
 }
 
 .in-img {
-    margin-bottom: 8px;
+    margin-bottom: 0px;
     border-radius: 5px;
+    position: relative;
+    margin-left: -176px;
 }
 
 .box-instance {
