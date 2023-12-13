@@ -242,22 +242,22 @@
 		</div>
 		<div class="col-md-4 center">
 			<h3>Horário de Guerra</h3>
-			<table class="contador">
-				<tr>
-					<td class="box-contador">
+			<div class="contador">
+				
+					<div class="box-contador">
 						<p>10</p>
 						<p>Dias</p>
-					</td>
-					<td class="box-contador">
+					</div>
+					<div class="box-contador">
 						<p>05</p>
 						<p>Horas</p>
-					</td>
-					<td class="box-contador">
+					</div>
+					<div class="box-contador">
 						<p>10</p>
 						<p>Minutos</p>
-					</td>
-				</tr>
-			</table>
+					</div>
+				
+			</div>
 		</div>
 		<div class="col-md-4">
 
