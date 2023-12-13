@@ -60,9 +60,9 @@
 		</div>
 	</div>
 </div>
-<div class="container-fluid">
+<div class="container-fluid credit">
 	<div class="row center">
-		<p class="credit">RagnaZen 2024 - Desenvolvido por <span>Lumen</span></p>
+		<p>RagnaZen 2024 - Desenvolvido por <span>Lumen</span></p>
 	</div>
 </div>
 

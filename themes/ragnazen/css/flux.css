@@ -1867,6 +1867,7 @@ small {
     font-size: 14px;
     margin-bottom: -88px;
     padding-bottom: 20px;
+    z-index: -1;
 }
 
 #footer ul {
