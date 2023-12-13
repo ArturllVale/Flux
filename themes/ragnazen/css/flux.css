@@ -1901,3 +1901,7 @@ small {
 .foo-img {
     max-width: 200px;
 }
+
+.from-select {
+    margin-bottom: 8px;
+}
