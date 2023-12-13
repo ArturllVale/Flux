@@ -120,22 +120,22 @@
 					</li>
 					<li class="list-group-item instanciado btn" data-bs-toggle="collapse" data-bs-target="#instance01" aria-expanded="false" aria-controls="instance01">
 						<img class="in-img" src="<?php echo $this->themePath('img/land.png'); ?>" alt="" />
-						<a>Nome da Instância 02</a>
+						<a class="btn">Nome da Instância 02</a>
 						<small>Instância</small>
 					</li>
 					<li class="list-group-item instanciado btn" data-bs-toggle="collapse" data-bs-target="#instance01" aria-expanded="false" aria-controls="instance01">
 						<img class="in-img" src="<?php echo $this->themePath('img/land.png'); ?>" alt="" />
-						<a>Nome da Instância 03</a>
+						<a class="btn">Nome da Instância 03</a>
 						<small>Instância</small>
 					</li>
 					<li class="list-group-item instanciado btn" data-bs-toggle="collapse" data-bs-target="#instance01" aria-expanded="false" aria-controls="instance01">
 						<img class="in-img" src="<?php echo $this->themePath('img/land.png'); ?>" alt="" />
-						<a>Nome da Instância 04</a>
+						<a class="btn">Nome da Instância 04</a>
 						<small>Instância</small>
 					</li>
 					<li class="list-group-item instanciado btn" data-bs-toggle="collapse" data-bs-target="#instance01" aria-expanded="false" aria-controls="instance01">
 						<img class="in-img" src="<?php echo $this->themePath('img/land.png'); ?>" alt="" />
-						<a>Nome da Instância 05</a>
+						<a class="btn">Nome da Instância 05</a>
 						<small>Instância</small>
 					</li>
 				</ul>
