@@ -239,9 +239,6 @@
 					<td class="lista-dias">Castelo Ratibum</td>
 				</tr>
 			</table>
-		</div>
-		<div class="col-md-4 center">
-			<h3>Horário de Guerra</h3>
 			<div class="row contador centro">
 				
 					<div class="col box-contador">
@@ -259,8 +256,12 @@
 				
 			</div>
 		</div>
-		<div class="col-md-4">
-
+		<div class="col-md-4 center">
+			<h3>Rank PVP</h3>
+			
+		</div>
+		<div class="col-md-4 center">
+			<h3>Rank MVP</h3>
 		</div>
 	</div>
 </div>
