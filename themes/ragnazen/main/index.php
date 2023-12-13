@@ -240,7 +240,7 @@
 				</tr>
 			</table>
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-4 center">
 			<h3>Horário de Guerra</h3>
 			<table class="contador">
 				<tr>
