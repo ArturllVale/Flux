@@ -133,8 +133,8 @@
 						<a class="btn">Nome da Instância 04</a>
 						<small class="sub">Instância</small>
 					</li>
-					<li href="https://www.google.com.br" target="_blank" class="list-group-item more-inst btn">
-						<a class="btn">Mais <i class="fab fa-wikipedia-w"></i></a>
+					<li class="list-group-item more-inst btn">
+						<a href="https://www.google.com.br" target="_blank" class="btn">Mais <i class="fab fa-wikipedia-w"></i></a>
 					</li>
 				</ul>
 			</div>
