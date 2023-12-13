@@ -1697,3 +1697,8 @@ small {
 .more-inst a {
     color: white !important;
 }
+
+.estati {
+    text-align: -webkit-center;
+    --bs-gutter-x: -20rem !important;
+}

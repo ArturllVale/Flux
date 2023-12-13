@@ -185,3 +185,26 @@
 		</div>
 	</div>
 </div>
+
+<!-- Estatisticas do servidor -->
+
+<div class="container-fluid opaca">
+	<div class="row center estati">
+		<div class="col">
+			<small>Total Personagens</small>
+			<p class="count-info">1,256</p>
+		</div>
+		<div class="col">
+			<small>Total Contas</small>
+			<p class="count-info">592</p>
+		</div>
+		<div class="col">
+			<small>Total Clãs</small>
+			<p class="count-info">102</p>
+		</div>
+		<div class="col">
+			<small>Pico Online</small>
+			<p class="count-info">982</p>
+		</div>
+	</div>
+</div>
