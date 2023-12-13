@@ -1862,6 +1862,18 @@ small {
     width: 100%;
     height: auto;
     background-color: #383838;
-    padding-top: 14px;
+    padding-top: 24px;
     color: white;
+    font-family: 'Nunito';
+    font-size: 14px;
+}
+
+#footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+#footer ul li::before {
+    content: '»'; /* Caractere que você deseja usar */
+    margin-right: 5px;
 }
