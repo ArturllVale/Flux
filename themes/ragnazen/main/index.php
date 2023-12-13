@@ -222,7 +222,7 @@
 <div class="container-fluid opaca pxEspac">
 <div class="container woe">
 	<div class="row">
-		<div class="col-md-4 center">
+		<div class="col-md-4 center bg-woe">
 			<h3>Guerra do Emperium</h3>
 			<p>Junte seu clã e venha competir com os melhores, receba recompensa e poteja seu território.</p>
 			<table style="margin-top: 4em;">
