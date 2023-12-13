@@ -1720,3 +1720,7 @@ small {
 .box-info p {
     font-size: 12px;
 }
+
+.box-info small {
+    font-size: 11px;
+}
