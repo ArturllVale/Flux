@@ -1585,8 +1585,8 @@ h3 {
 
 .instanciado a::before {
     position: absolute;
-    right: -8px;
-    top: 33px;
+    right: -37px;
+    top: 22px;
     width: 16px;
     height: 16px;
     -webkit-transform: rotate(45deg);
@@ -1613,7 +1613,7 @@ small {
 }
 
 .in-img {
-    margin-bottom: 7px;
+    margin-bottom: 0px;
     border-radius: 5px;
     position: relative;
     margin-left: -176px;
@@ -1675,5 +1675,6 @@ small {
 }
 
 .sub {
-    margin-left: -10px;
+    position: absolute;
+    top: -23px;
 }
