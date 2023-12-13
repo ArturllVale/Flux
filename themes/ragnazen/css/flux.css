@@ -1798,3 +1798,7 @@ small {
 .box-contador p:nth-of-type(2) {
 
 }
+
+.centro {
+    justify-content: center;
+}

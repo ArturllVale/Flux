@@ -242,7 +242,7 @@
 		</div>
 		<div class="col-md-4 center">
 			<h3>Horário de Guerra</h3>
-			<div class="row contador">
+			<div class="row contador centro">
 				
 					<div class="col box-contador">
 						<p>10</p>
