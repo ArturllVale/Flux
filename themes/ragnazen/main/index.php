@@ -247,17 +247,17 @@
 					<td class="box-contador">
 						<p>10</p>
 						<br>
-						<small>Dias</small>
+						<p>Dias</p>
 					</td>
 					<td class="box-contador">
 						<p>05</p>
 						<br>
-						<small>Horas</small>
+						<p>Horas</p>
 					</td>
 					<td class="box-contador">
 						<p>10</p>
 						<br>
-						<small>Minutos</small>
+						<p>Minutos</p>
 					</td>
 				</tr>
 			</table>
