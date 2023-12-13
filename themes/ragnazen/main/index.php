@@ -199,7 +199,7 @@
 		<div class="col">
 			<div class="box-info">
 			<small>Total Contas</small>
-			<p class="count-info">592</p>
+			<p class="count-info">593</p>
 			</div>
 		</div>
 		<div class="col">
