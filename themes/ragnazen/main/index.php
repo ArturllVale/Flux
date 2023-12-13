@@ -187,7 +187,7 @@
 </div>
 
 <!-- Estatisticas do servidor -->
-
+		</div>
 <div class="container-fluid opaca">
 	<div class="row center estati">
 		<div class="col">
@@ -208,3 +208,5 @@
 		</div>
 	</div>
 </div>
+
+<div class="container">
