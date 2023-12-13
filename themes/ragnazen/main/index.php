@@ -209,7 +209,7 @@
 	</div>
 </div>
 
-<div class="container-fluid opaca 100vh">
+<div class="container-fluid opaca pxEspac">
 	
 </div>
 
