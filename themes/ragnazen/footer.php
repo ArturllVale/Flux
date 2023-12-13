@@ -3,7 +3,7 @@
 
 </div>
 <div id="footer">
-	<div class="container">
+	<div class="container-fluid">
 
 
 		<!--Tema -->
@@ -58,14 +58,11 @@
 				</form>
 			</div>
 		</div>
-	</div>
-</div>
-<div class="container-fluid credit">
-	<div class="row center">
+		<div class="row center credit">
 		<p>RagnaZen 2024 - Desenvolvido por <span>Lumen</span></p>
 	</div>
+	</div>
 </div>
-
 
 <script type="text/javascript">
 	function updatePreferredServer(sel) {
