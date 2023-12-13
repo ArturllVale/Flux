@@ -8,7 +8,14 @@
 
 			<!--Tema -->
 		<div class="row">
-			<div class="col"></div>
+			<div class="col">
+				<ul>
+					<li style="">Links Rápidos</li>
+					<li>Criar conta</li>
+					<li>Informações</li>
+					<li>Download</li>
+				</ul>
+			</div>
 			<div class="col"></div>
 			<div class="col"></div>
 			<div class="col">
