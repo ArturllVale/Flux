@@ -4,7 +4,7 @@
 </div>
 <div id="footer">
 	<div class="container">
-		<p class="text-muted">
+		
 
 			<!--Tema -->
 		<div class="row">
@@ -35,7 +35,7 @@
 						<?php endforeach ?>
 					</select>
 				</span>
-				</p>
+				
 				<form action="<?php echo $this->urlWithQs ?>" method="post" name="preferred_theme_form"
 					style="display: none">
 					<input type="hidden" name="preferred_theme" value="" />
