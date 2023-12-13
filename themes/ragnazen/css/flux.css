@@ -1706,6 +1706,7 @@ small {
 
 .pxEspac {
     height: 580px;
+    margin-top: -1em;
 }
 
 .box-info {
@@ -1745,4 +1746,8 @@ small {
 
 .contei-info {
     margin-top: -14em;
+}
+
+#wave {
+    margin-bottom: -15em;
 }
