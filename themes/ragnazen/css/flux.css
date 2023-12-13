@@ -1771,4 +1771,7 @@ small {
     list-style: none;
     margin-bottom: 7px;
     font-weight: 500;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-bottom: 7px;
 }
