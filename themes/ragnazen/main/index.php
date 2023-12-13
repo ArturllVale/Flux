@@ -241,7 +241,23 @@
 			</table>
 		</div>
 		<div class="col-md-4">
-
+			<h3>Horário de Guerra</h3>
+			<table class="contador">
+				<tr>
+					<td class="box-contador">
+						<p>10</p>
+						<small>Dias</small>
+					</td>
+					<td class="box-contador">
+						<p>05</p>
+						<small>Horas</small>
+					</td>
+					<td class="box-contador">
+						<p>10</p>
+						<small>Minutos</small>
+					</td>
+				</tr>
+			</table>
 		</div>
 		<div class="col-md-4">
 
