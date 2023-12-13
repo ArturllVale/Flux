@@ -188,7 +188,7 @@
 
 <!-- Estatisticas do servidor -->
 		</div>
-<div class="container-fluid opaca">
+<div class="container">
 	<div class="row center estati">
 		<div class="col">
 			<small>Total Personagens</small>
@@ -207,6 +207,10 @@
 			<p class="count-info">982</p>
 		</div>
 	</div>
+</div>
+
+<div class="container-fluid opaca">
+	
 </div>
 
 <div class="container">
