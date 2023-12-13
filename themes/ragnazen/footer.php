@@ -4,9 +4,9 @@
 </div>
 <div id="footer">
 	<div class="container">
-		
 
-			<!--Tema -->
+
+		<!--Tema -->
 		<div class="row">
 			<div class="col">
 				<ul>
@@ -51,7 +51,7 @@
 						<?php endforeach ?>
 					</select>
 				</span>
-				
+
 				<form action="<?php echo $this->urlWithQs ?>" method="post" name="preferred_theme_form"
 					style="display: none">
 					<input type="hidden" name="preferred_theme" value="" />
@@ -61,9 +61,9 @@
 	</div>
 </div>
 <div class="container-fluid">
-<div class="row center">
-			<p class="credit">RagnaZen 2024 - Desenvolvido por <span>Lumen</span></p>
-</div>
+	<div class="row center">
+		<p class="credit">RagnaZen 2024 - Desenvolvido por <span>Lumen</span></p>
+	</div>
 </div>
 
 
