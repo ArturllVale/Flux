@@ -225,7 +225,7 @@
 		<div class="col-md-4">
 			<h3>Guerra do Emperium</h3>
 			<p>Junte seu clã e venha competir com os melhores, receba recompensa e poteja seu território.</p>
-			<table style="margin-top: 4em; float: right;">
+			<table style="margin-top: 4em;>
 				<tr>
 					<td class="lista-dias"><i class="fas fa-calendar-day"></i> Domingo</td>
 					<td class="lista-dias">Castelo 1</td>
