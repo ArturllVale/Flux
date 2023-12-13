@@ -191,20 +191,28 @@
 <div class="container">
 	<div class="row center estati">
 		<div class="col">
+			<div class="box-info">
 			<small>Total Personagens</small>
 			<p class="count-info">1,256</p>
+			</div>
 		</div>
 		<div class="col">
+			<div class="box-info">
 			<small>Total Contas</small>
 			<p class="count-info">592</p>
+			</div>
 		</div>
 		<div class="col">
+			<div class="box-info">
 			<small>Total Clãs</small>
 			<p class="count-info">102</p>
+			</div>
 		</div>
 		<div class="col">
+			<div class="box-info">
 			<small>Pico Online</small>
 			<p class="count-info">982</p>
+			</div>
 		</div>
 	</div>
 </div>
