@@ -149,7 +149,7 @@
 					<div class="box-instance">
 						<img class="box-img" src="<?php echo $this->themePath('img/god.png'); ?>" alt="" />
 						<p>Descrição aquo</p>
-						<small>Pequena Desc</small>
+						<small>Instância: <span style="color: green;">Disponível</span></small>
 						<hr>
 						<p>Descrição aquodes maior aqui tatatat lslslsl</p>
 					</div>
@@ -159,7 +159,7 @@
 					<div class="box-instance">
 						<img class="box-img" src="<?php echo $this->themePath('img/god.png'); ?>" alt="" />
 						<p>Descrição aquo</p>
-						<small>Pequena Desc</small>
+						<small>Instância: <span style="color: green;">Disponível</span></small>
 						<hr>
 						<p>Descrição aquodes maior aqui tatatat lslslsl</p>
 					</div>
@@ -169,7 +169,7 @@
 					<div class="box-instance">
 						<img class="box-img" src="<?php echo $this->themePath('img/god.png'); ?>" alt="" />
 						<p>Descrição aquo</p>
-						<small>Pequena Desc</small>
+						<small>Instância: <span style="color: red;">Indisponível</span></small>
 						<hr>
 						<p>Descrição aquodes maior aqui tatatat lslslsl</p>
 					</div>
