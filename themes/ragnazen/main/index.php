@@ -225,10 +225,10 @@
 		<div class="col-md-4">
 			<h3>Guerra do Emperium</h3>
 			<p>Junte seu clã e venha competir com os melhores, receba recompensa e poteja seu território.</p>
-			<ul class="list-group lista-dias">
-				<li class="list-group-item">Domingo</li>
-				<li class="list-group-item">Terça</li>
-				<li class="list-group-item">Sexta</li>
+			<ul>
+				<li class="lista-dias">Domingo</li>
+				<li class="lista-dias">Terça</li>
+				<li class="lista-dias">Sexta</li>
 			</ul>
 		</div>
 		<div class="col-md-4">
