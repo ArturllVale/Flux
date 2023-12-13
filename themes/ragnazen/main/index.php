@@ -192,7 +192,7 @@
 	<div class="row center estati">
 		<div class="col">
 			<div class="box-info">
-			<small>Total Personagens</small>
+			<small><i class="fas fa-circle" style="color: #48C9FD;"></i>Total Personagens</small>
 			<p class="count-info">1,256</p>
 			</div>
 		</div>
