@@ -1771,6 +1771,10 @@ small {
     padding-top: 1em;
 }
 
+.contador {
+    margin-top: 2em;
+}
+
 .lista-dias {
     list-style: none;
     margin-bottom: 7px;
