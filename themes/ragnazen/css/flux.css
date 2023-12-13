@@ -1651,7 +1651,7 @@ small {
     border-radius: 6px 6px 0px 0px;
 }
 
-.box-img::after {
+.box-img:after {
     content: "";
     position: absolute;
     left: 0;
