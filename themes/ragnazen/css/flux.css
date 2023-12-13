@@ -1555,6 +1555,7 @@ h3 {
     color: white !important;
     font-family: "Nunito" !important;
     font-weight: 600 !important;
+    height: 80px;
 }
 
 .instanciado:hover {
@@ -1576,17 +1577,14 @@ h3 {
     color: white;
     font-family: "Nunito";
     font-weight: 600;
-    margin-top: -20px;
-    margin-left: -10px;
-    position: absolute;
-    left: 69px;
-    top: 30px;
+    margin-top: 0px;
+    margin-left: 27px;
 }
 
 .instanciado a::before {
     position: absolute;
-    right: -37px;
-    top: 22px;
+    right: -9px;
+    top: 30px;
     width: 16px;
     height: 16px;
     -webkit-transform: rotate(45deg);
@@ -1615,8 +1613,8 @@ small {
 .in-img {
     margin-bottom: 0px;
     border-radius: 5px;
-    position: relative;
-    margin-left: -176px;
+    position: absolute;
+    left: 5px;
 }
 
 .box-instance {
@@ -1675,6 +1673,6 @@ small {
 }
 
 .sub {
-    position: absolute;
-    top: -23px;
+    margin-left: -118px;
+    margin-top: -13px;
 }
