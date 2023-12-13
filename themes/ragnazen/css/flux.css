@@ -1210,7 +1210,8 @@ textarea {
 }
 
 .opaca {
-    background-color: #47c9fd;
+    background: rgb(71,201,253);
+    background: linear-gradient(90deg, rgba(71,201,253,1) 0%, rgba(119,232,254,1) 100%);
 }
 
 .nunito {
