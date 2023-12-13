@@ -10,13 +10,22 @@
 		<div class="row">
 			<div class="col">
 				<ul>
-					<p class="f-title">Links Rápidos:</p>
+					<p class="f-title">Links Rápidos</p>
 					<li>Criar conta</li>
 					<li>Informações</li>
 					<li>Download</li>
 				</ul>
 			</div>
-			<div class="col"></div>
+			<div class="col">
+				<ul>
+					<p class="f-title">Informações</p>
+					<li>Instâncias</li>
+					<li>Eventos</li>
+					<li>Balanceamento</li>
+					<li>RMT</li>
+					<li>Doações</li>
+				</ul>
+			</div>
 			<div class="col"></div>
 			<div class="col">
 				<?php if (count(Flux::$appConfig->get('ThemeName', false)) > 1): ?>
