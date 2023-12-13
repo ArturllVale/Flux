@@ -1860,12 +1860,13 @@ small {
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: auto;
     background-color: #383838;
-    padding-top: 20px;
+    padding-top: 46px;
     color: white;
     font-family: 'Nunito';
     font-size: 14px;
+    margin-bottom: -88px;
+    padding-bottom: 20px;
 }
 
 #footer ul {
