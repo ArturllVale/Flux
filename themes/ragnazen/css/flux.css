@@ -1755,3 +1755,7 @@ small {
 .transition {
     margin-top: -24em;
 }
+
+.woe {
+    z-index: 2;
+}
