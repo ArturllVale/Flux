@@ -1681,5 +1681,17 @@ small {
 }
 
 .more-inst {
-    padding: 1px;
+    padding: 1px !important;
+    max-width: 97px;
+    background-color: #1da9e0 !important;
+    margin-left: 149px;
+    margin-top: 6px;
+}
+
+.more-inst:hover {
+    background-color: #bd7eb7 !important;
+}
+
+.more-inst a {
+    color: white !important;
 }
