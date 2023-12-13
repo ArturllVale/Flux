@@ -1727,10 +1727,10 @@ small {
 
 .box-info small {
     font-size: 11px;
-    font-family: 'Nunito';
-    text-align: center;
+    text-align: left;
     margin-left: -57px;
     padding-top: 10px;
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 500;
+    color: #9f9f9f;
 }
