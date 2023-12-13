@@ -224,7 +224,7 @@
 	<div class="row">
 		<div class="col-md-4">
 			<h3>Guerra do Emperium</h3>
-			<p>Junte seu clã e venha competir com os melhores</p>
+			<p>Junte seu clã e venha competir com os melhores, receba recompensa e poteja seu território.</p>
 			<ul>
 				<li>Domingo</li>
 				<li>Terça</li>
