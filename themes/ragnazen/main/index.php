@@ -246,17 +246,14 @@
 				<tr>
 					<td class="box-contador">
 						<p>10</p>
-						<br>
 						<p>Dias</p>
 					</td>
 					<td class="box-contador">
 						<p>05</p>
-						<br>
 						<p>Horas</p>
 					</td>
 					<td class="box-contador">
 						<p>10</p>
-						<br>
 						<p>Minutos</p>
 					</td>
 				</tr>
