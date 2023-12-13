@@ -1850,7 +1850,7 @@ small {
     left: 0;
     background-image: url("https://playragnarokonlinebr.com/episodios/guerra-do-emperium-terceira-edicao/images/guerra-do-emperium-direita.png");
     background-size: contain;
-    background-position: left;
+    background-position: right;
     background-repeat: no-repeat;
     opacity: 0.19; /* Valor entre 0 (totalmente transparente) e 1 (totalmente opaco) */
     z-index: -1; /* Garante que o pseudoelemento fique atrás do conteúdo da div */
