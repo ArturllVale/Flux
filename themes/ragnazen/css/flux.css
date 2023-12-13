@@ -1881,4 +1881,7 @@ small {
 .f-title {
     color: #5dd7fd;
     font-weight: 500;
+    font-size: 17px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
 }
