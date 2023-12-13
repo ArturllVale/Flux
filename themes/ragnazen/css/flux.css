@@ -1715,12 +1715,22 @@ small {
     margin-bottom: -10px;
     z-index: -1;
     position: relative;
+    border-radius: 4px;
 }
 
 .box-info p {
-    font-size: 12px;
+    font-size: 27px;
+    padding-top: 17px;
+    color: #bd7eb7;
+    font-family: 'Nunito';
 }
 
 .box-info small {
     font-size: 11px;
+    font-family: 'Nunito';
+    text-align: center;
+    margin-left: -57px;
+    padding-top: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
 }
