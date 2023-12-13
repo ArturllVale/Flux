@@ -1772,7 +1772,7 @@ small {
 }
 
 .contador {
-    margin-top: 2em;
+    margin-top: 2em !important;
 }
 
 .lista-dias {

@@ -253,7 +253,7 @@
 						<p>Horas</p>
 					</div>
 					<div class="col box-contador">
-						<p>10</p>
+						<p>25</p>
 						<p>Minutos</p>
 					</div>
 				
