@@ -1779,3 +1779,7 @@ small {
     padding-left: 20px;
     padding-bottom: 7px;
 }
+
+.box-contador {
+    text-align: center;
+}
