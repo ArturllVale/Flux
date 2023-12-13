@@ -1758,4 +1758,10 @@ small {
 
 .woe {
     z-index: 2;
+    position: relative;
+    padding-top: 7em;
+}
+
+.woe h3 {
+    color: white;
 }
