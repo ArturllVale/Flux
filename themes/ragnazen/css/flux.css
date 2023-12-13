@@ -1835,3 +1835,23 @@ small {
     opacity: 0.19; /* Valor entre 0 (totalmente transparente) e 1 (totalmente opaco) */
     z-index: -1; /* Garante que o pseudoelemento fique atrás do conteúdo da div */
 }
+
+.bg-pvp {
+    position: relative;
+    height: 423px;
+}
+
+.bg-pvp::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url("https://playragnarokonlinebr.com/episodios/guerra-do-emperium-terceira-edicao/images/guerra-do-emperium-direita.png");
+    background-size: contain;
+    background-position: left;
+    background-repeat: no-repeat;
+    opacity: 0.19; /* Valor entre 0 (totalmente transparente) e 1 (totalmente opaco) */
+    z-index: -1; /* Garante que o pseudoelemento fique atrás do conteúdo da div */
+}

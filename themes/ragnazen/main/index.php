@@ -257,11 +257,11 @@
 			</div>
 		</div>
 		<div class="col-md-4 center">
-			<h3>Rank PVP</h3>
+			<h3>Rank MVP</h3>
 			
 		</div>
-		<div class="col-md-4 center">
-			<h3>Rank MVP</h3>
+		<div class="col-md-4 center bg-pvp">
+			<h3>Rank PVP</h3>
 		</div>
 	</div>
 </div>
